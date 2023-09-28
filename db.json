@@ -1,26 +1,13 @@
 {
-  "books": [
+  "users": [
     {
       "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "Harry Potter and the Philosopher's Stone",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
-    },
-    {
-      "id": 1,
-      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
-      "book_name": "test",
-      "author": "J. K. Rowling",
-      "genre": "fiction",
-      "edition": "2021",
-      "publisher": "Bloomsbury",
-      "cost": 1299,
-      "borrowed": false
+      "name": 1,
+      "phone": "0352334588",
+      "address": "Hà Nội",
+      "email": "tuddaallt@gmail.com",
+      "startDate": "2023-09-21",
+      "numberOfStar": 1
     }
   ]
 }
