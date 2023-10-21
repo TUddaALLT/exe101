@@ -20,7 +20,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,6 +33,7 @@
       <option name="presentableId" value="Default" />
       <updated>1695914292958</updated>
       <workItem from="1695914293350" duration="19000" />
+      <workItem from="1696759996374" duration="7000" />
     </task>
     <servers />
   </component>
